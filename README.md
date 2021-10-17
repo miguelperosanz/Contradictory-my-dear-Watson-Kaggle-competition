@@ -2,7 +2,7 @@
 
 This is the code that I used for the Kaggle competition "Contradictory - my - dear - Watson".
 
-It is a NLP competition where given two sentences "premise" and "hypothesis", you have to figure out if they are contradictory, neutral or entailment. The best
+It is a NLP competition where given two sentences "premise" and "hypothesis" in different languages and you have to figure out if they are contradictory, neutral or entailment. The best
 option is using the "joeddav/xlm-roberta-large-xnli" pretrained model, already pretrained for this task (called NLI = 
 Natural Language Inference), in different languages.
 
